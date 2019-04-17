@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.16)  17 APR 2019 11:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.16)  17 APR 2019 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -161,11 +161,11 @@ e
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 512.14963pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.14963pt
-* \textheight=686.7347pt
+* \textheight=745.46222pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-52.36449pt
@@ -236,20 +236,25 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 53--89
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
 
-Overfull \hbox (36.50516pt too wide) in paragraph at lines 90--134
+Overfull \hbox (36.50516pt too wide) in paragraph at lines 90--159
 [][]  [] 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./yadnyi.JPG>] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./yadnyi.JPG>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 167.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 167.
+ [2]
 (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1947 strings out of 494923
- 28048 string characters out of 6180742
- 92087 words of memory out of 5000000
- 5257 multiletter control sequences out of 15000+600000
- 9059 words of font info for 32 fonts, out of 8000000 for 9000
+ 1958 strings out of 494923
+ 28168 string characters out of 6180742
+ 92100 words of memory out of 5000000
+ 5264 multiletter control sequences out of 15000+600000
+ 10586 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,6n,25p,273b,297s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -259,7 +264,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 884618 bytes).
+Output written on resume.pdf (2 pages, 888986 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
